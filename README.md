@@ -4,3 +4,6 @@
 
 ## 🌟 Features
  - Added a DatabaseConnection.java
+
+![User Registration](Mysql-Image Updated/Screenshot 2025-07-05 125844.png)
+
