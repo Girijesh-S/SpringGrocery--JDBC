@@ -5,6 +5,7 @@
 ## 🌟 Features
  - Added a DatabaseConnection.java (To establish Mysql Connection)
  - Added mysql-connector-java-8.0.31 JAR File
+ - Execute the DATABASE Queries.txt - To create Database and Tables in MySQL
 
 ## MYSQL Status Updated
   - USERS TABLE
