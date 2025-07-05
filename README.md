@@ -7,7 +7,7 @@
  - Added mysql-connector-java-8.0.31 JAR File
 
 ## MYSQL Status Updated
-  -USERS TABLE
+  - USERS TABLE
 
 ![User Registration](Mysql-Image%20Updated/Screenshot%202025-07-05%20125844.png)
 
